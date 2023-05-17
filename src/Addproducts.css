@@ -1,0 +1,65 @@
+.mainmain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.firstfirst {
+  margin-bottom: 20px;
+
+}
+
+.secondsecond {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  
+}
+
+.thirdthird {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.editinput_firstdiv,
+.editinput_seconddiv,
+.editinput_thirddiv,
+.editinput_fourthdiv,
+.editdropdown_div {
+  margin-bottom: 10px;
+}
+
+h5 {
+  margin-bottom: 10px;
+}
+
+input,
+select {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.editbuttonn {
+  margin-top: 30px;
+}
+
+.Button {
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Button:hover {
+  background-color: #45a049;
+}

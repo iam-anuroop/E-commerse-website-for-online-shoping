@@ -1,0 +1,144 @@
+
+.nav_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding-right: 60px;
+}
+.nav_ul_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.nav_ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+.nav_ul li{
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight:400;
+    color: rgba(47, 11, 11,0.6);
+    cursor: pointer;
+}
+.nav_input_div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav_icon_div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.nav_header_1{
+    display: flex;
+    align-items: center;
+}
+.nav_header_2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.logo_image_div{
+    width: 250px;
+    height: 80px;
+}
+.image_logo{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.search_input{
+    height: 40px;
+    width: 220px;
+    padding: 8px;
+}
+.search_arrow_div{
+    background: rgba(238, 97, 36,0.7);
+    display: flex;
+    height: 40px;
+    width: 25px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.search_arrow{
+    font-size: 30px;
+}
+.kart_logo{
+    font-size: 20px;
+    cursor: pointer;
+}
+.user_logo{
+    font-size: 20px;
+    cursor: pointer;
+}
+.main_div{
+    background-image: linear-gradient(rgb(195, 156, 156),rgb(184, 203, 184),rgb(226, 195, 195),rgb(240, 240, 156));
+    background-size: cover;
+    height: auto;
+    background-size: contain;
+    padding-bottom: 2%;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.second_maindiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.shop_now_btn{
+    background: chocolate;
+    border: 0px;
+    text-align: center;
+}
+.shopnow_arrow{
+    font-size: 20px;
+}
+.babyimage_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.third_maindiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main_heading{
+    font-family: 'Sriracha', cursive;
+    font-size: 10vh;
+    color: darkblue;
+}
+.text_div{
+    text-align: start;
+}
+.offer_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: chocolate;
+}
+.texdec{
+    text-decoration: none;
+    color: black;
+}
+.category_div1{
+    cursor: pointer;
+}
+.category_div2{
+    cursor: pointer;
+}

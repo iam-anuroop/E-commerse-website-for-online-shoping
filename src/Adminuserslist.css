@@ -1,0 +1,30 @@
+.container_main{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.userlist_heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+.user_searcher{
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    padding: 2%;
+    border: 0;
+}
+.users_listitem{
+    width: 600px;
+    padding: 5%;
+}
+.listitem_tag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

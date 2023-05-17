@@ -1,0 +1,13 @@
+.product_searcher{
+    width: 25rem;
+    border: 0;
+    border-radius: 10px;
+}
+.search_productdiv{
+    padding-left: 25px;
+
+}
+.productlist_heading{
+    padding-bottom: 5px;
+
+}

@@ -1,0 +1,25 @@
+.kart_maindiv{
+    padding:1% ;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1%;
+    position: relative;
+}
+.second_kartmaindiv{
+    display: flex;
+    padding-left: 0;
+}
+
+.rmv_btndiv{
+    position: absolute;
+    top: 2%;
+    right: 1%;
+}
+.total_div{
+    display: flex;
+    text-align: center;
+    padding: 2% 2% 1% 2%;
+
+}

@@ -1,0 +1,31 @@
+.div_detailmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .div_detailcard {
+    margin: 20px;
+  }
+  
+  .card_card {
+    width: 18rem;
+  }
+  
+  .card_body {
+    text-align: center;
+  }
+  
+  .card_title {
+    margin-bottom: 10px;
+  }
+  
+  .button_body {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .listgroup {
+    margin-top: 20px;
+  }
+  
